@@ -1,0 +1,4 @@
+Click==7.0
+importlib-resources==1.0.2
+pex==1.6.10
+pexresources==0.0.0
